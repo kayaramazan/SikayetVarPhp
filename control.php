@@ -2,8 +2,7 @@
 
 	function uye_ekle()
 		{
-
-						sayfa_ac("uye_ekle.php",0,"Müşteri Memnuniyetin Adresi");
+            sayfa_ac("uye_ekle.php",0,"Müşteri Memnuniyetin Adresi");
 		}
 
 		function anasayfa()
